@@ -1,7 +1,70 @@
-# Student-List-Manager
-This project is a simple login application for managing a student list. The application prompts for a username and password, where the correct credentials are:
+# 📋 Student-List-Manage
 
-- Username: abelha
-- Password: abelinha
+O **Student-List-Manage** é um sistema simples para gerenciamento de listas de estudantes, desenvolvido em **Python** com a biblioteca **PySimpleGUI**.
 
-Once logged in, users can view the list of students, add new students, remove existing students, or choose a random student from the list. The application stores the student names in a text file for persistent data management.**
+---
+
+## 📌 Índice
+
+- [Objetivo do Projeto](#-objetivo-do-projeto)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Funcionalidades](#-funcionalidades)
+- [Como Usar](#-como-usar)
+- [Autenticação](#-autenticação)
+- [Armazenamento de Dados](#-armazenamento-de-dados)
+- [Contato](#-contato)
+
+---
+
+## 🎯 Objetivo do Projeto
+
+O **Student-List-Manage** foi criado para facilitar a organização e o gerenciamento de listas de estudantes, permitindo adicionar, remover, sortear e visualizar alunos de forma simples e intuitiva.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **Linguagem:** Python
+- **Bibliotecas:**
+  - **PySimpleGUI** (para a interface gráfica)
+  - **random** (para o sorteio de estudantes)
+
+---
+
+## ✨ Funcionalidades
+
+- Adicionar e remover estudantes da lista
+- Sortear estudantes aleatoriamente
+- Exibir a lista completa de estudantes cadastrados
+- Interface gráfica intuitiva usando PySimpleGUI
+
+---
+
+## 🚀 Como Usar
+
+1. Execute o script Python para abrir a interface gráfica.
+2. Insira o nome e senha para acessar o sistema.
+3. Utilize as opções disponíveis para gerenciar a lista de estudantes.
+
+---
+
+## 🔑 Autenticação
+
+Para acessar o sistema, utilize as seguintes credenciais:
+
+- **Nome:** abelha
+- **Senha:** abelhinha
+
+---
+
+## 🗂 Armazenamento de Dados
+
+A lista de estudantes é armazenada no arquivo **texto.txt**, garantindo que os dados sejam preservados entre execuções do programa. Todas as operações de adicionar ou remover estudantes afetam esse arquivo.
+
+---
+
+## 📩 Contato
+
+Se tiver alguma dúvida ou sugestão, entre em contato:
+📧 **E-mail:** [asilvaperoba@gmail.com](mailto:asilvaperoba@gmail.com)
+
