@@ -12,6 +12,7 @@ O **Student-List-Manage** é um sistema simples para gerenciamento de listas de 
 - [Como Usar](#-como-usar)
 - [Autenticação](#-autenticação)
 - [Armazenamento de Dados](#-armazenamento-de-dados)
+- [Instalação da Biblioteca PySimpleGUI](#-instalacao-da-biblioteca-pysimplegui)
 - [Contato](#-contato)
 
 ---
@@ -60,6 +61,18 @@ Para acessar o sistema, utilize as seguintes credenciais:
 ## 🗂 Armazenamento de Dados
 
 A lista de estudantes é armazenada no arquivo **texto.txt**, garantindo que os dados sejam preservados entre execuções do programa. Todas as operações de adicionar ou remover estudantes afetam esse arquivo.
+
+---
+
+## 📥 Instalação da Biblioteca PySimpleGUI
+
+Para rodar este projeto, é necessário instalar a biblioteca **PySimpleGUI**. Utilize o seguinte comando no terminal:
+
+```bash
+pip install PySimpleGUI
+```
+
+Caso esteja utilizando um ambiente virtual, certifique-se de ativá-lo antes da instalação.
 
 ---
 
